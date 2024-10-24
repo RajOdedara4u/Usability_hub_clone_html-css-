@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#222" stop-opacity="0"></stop>
+      <stop offset="1" stop-color="#222" stop-opacity="0.2"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Icon_-_Funnel" data-name="Icon - Funnel" transform="translate(0.855 -0.05)">
+    <rect id="box_-_green" data-name="box - green" width="150" height="150" rx="12" transform="translate(-0.856 0.05)" fill="#25b846"></rect>
+    <rect id="box_-_shadow" data-name="box - shadow" width="150" height="150" rx="12" transform="translate(-0.856 0.05)" opacity="0.5" fill="url(#linear-gradient)"></rect>
+    <path id="Union_25" data-name="Union 25" d="M26.8,62.228V35.8L1.988,10.983H72.849L47.668,36.164V73.941ZM2,7.214a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H72.838a2,2,0,0,1,2,2V5.215a2,2,0,0,1-2,2Z" transform="translate(36.644 41.3)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"></path>
+  </g>
+</svg>
